@@ -1,0 +1,9 @@
+span{
+    color: yellow;
+    font-size: 1.2em;
+}
+.btn{
+    background-color:rgb(102, 88, 88) !important; 
+    border-color: red !important;
+    margin-top: 150px;
+}

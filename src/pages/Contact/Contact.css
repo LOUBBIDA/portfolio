@@ -1,0 +1,16 @@
+p {
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 26px;
+    color: rgb(218, 218, 218);
+    margin-bottom: 20px;
+
+    font-family:  sans-serif !important;  
+     }
+     .col-lg-4{
+         background-color: rgb(184, 60, 60) ;
+         margin-top: 100px;
+          flex: 0 0 33.333333% !important;
+        max-width: 33.333333% !important;
+        
+     }
