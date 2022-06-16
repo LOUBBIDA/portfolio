@@ -6,4 +6,78 @@ span{
     background-color:rgb(102, 88, 88) !important; 
     border-color: red !important;
     margin-top: 150px;
+    opacity: 0.6;
+    transition: 0.3s;
+  
+  }
+  .btn:hover {opacity: 1;
+
+    scale: 2s;
 }
+ 
+.service-link{
+    color:  red;
+    font-size: 1.1em;
+    font-weight: 600;
+}
+.container {
+    margin-left: 150px; 
+}
+.section-ptb {
+    padding-top: 120px;
+    padding-bottom: 100px;
+    position: relative;
+    
+   
+}
+.bgs {
+    border-color: red !important;
+    background: linear-gradient( to left,rgb(160, 75, 75),rgb(51, 47, 47)) ;
+}
+ 
+
+.col-md-3{
+    max-width: 25% !important; 
+}
+.image{
+    position: absolute;
+    left: 62px;
+    bottom: 200px;
+    transition-duration: transform;
+    transition: 0.45s;
+     
+
+}
+.image:hover{
+    transform: scale(1.2
+    )
+    
+}
+ .titre {
+  font-size: 50px   ;
+  color: rgb(77, 11, 11);
+}
+.imgg{
+    transition-duration: transform;
+    transition: 0.45s;
+    
+}
+.imgg:hover{
+    transform: scale(1.2);
+}
+.mb-4{
+    margin-bottom: 10px !important;
+}
+ .bios1{
+    position: relative;
+    bottom: 60px;
+    left: 30px;
+ }
+  .arij{
+    position: relative;
+    top: -68px;
+  }
+ 
+
+
+ 

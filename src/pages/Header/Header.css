@@ -1,0 +1,15 @@
+ 
+
+.nav-item .nav-link{
+    color: white;
+    font-size: 1.1em;
+    font-weight: 600;
+    text-decoration: none;
+}
+.nav-item .nav-link:hover{
+    color: red;
+}
+.text-white {
+    margin-top:-61p 1x !important; 
+}
+ 

@@ -7,10 +7,64 @@ p {
 
     font-family:  sans-serif !important;  
      }
-     .col-lg-4{
-         background-color: rgb(184, 60, 60) ;
-         margin-top: 100px;
-          flex: 0 0 33.333333% !important;
-        max-width: 33.333333% !important;
-        
+     
+     .ayoub{
+       margin-left: 20px !important;
      }
+     
+     .col-md-6.bg-danger{
+      background: linear-gradient( to left,rgb(184, 110, 110),rgb(92 87 87))  !important;
+      /* width: 600px !important;
+      height: 300px  !important; */
+      margin-top: 50px;
+      /* margin-bottom: 60px; */
+     }
+     .col-md-6.w-10{
+      width: 400px;
+      height: 300px;
+     }
+     .form-control.fs-4{
+      height: 200px;
+     }
+      
+  text.text.danger{
+      font-family: Arial, Helvetica, sans-serif;
+      color: rgb(83, 28, 28) !important;
+     }
+    .card.shadow-sm{
+      border-color: red !important;
+      background: linear-gradient( to left,rgb(160, 75, 75),rgb(51, 47, 47)) ;
+     
+    
+    }
+    .card.shadow-lm{
+      width: 300px !important ;
+      height: 80px !important;
+      margin-top: 5px;
+      border-color: red !important; 
+      background: linear-gradient( to left,rgb(160, 75, 75),rgb(51, 47, 47)) ;
+      position: relative;
+
+    }
+    .row.justify-content-betwen{
+      margin-bottom: 40px;
+
+    }
+    .s-4.mx-5{
+   position:absolute ;
+   right: 200px;
+   bottom: 20px;
+    }
+    .mt-2{
+      background-color:rgb(160, 75, 75) ;
+      border-color: red;
+      border-radius: 20px;
+      margin-bottom: 30px;
+      height: 100PX;
+    }
+    .text.text-center.pt-5.my-6{
+      margin-bottom: -130px !important;
+      position: absolute;
+      top: 20px;
+      right: 30px;
+    }  

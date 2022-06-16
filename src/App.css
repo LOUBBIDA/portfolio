@@ -1,0 +1,8 @@
+.Light{
+    background: linear-gradient( to left,rgb(184, 110, 110),rgb(92 87 87))   !important;
+    color: #f1f1f1
+}
+.Dark{
+    color: #f1f1f1;
+    background-color: #333;
+}

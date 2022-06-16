@@ -1,0 +1,100 @@
+.nav1 {
+    
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    
+    margin-bottom: 0;
+   padding: 50px;
+}
+.nav-item1{
+    padding: 50px;
+    color: white;
+    font-size: 1.1em;
+    font-weight: 600;
+}
+
+    .pofo-line {
+        background: #d6d6d6;
+        height: 2px;
+       
+        width: 82.5%;
+        z-index: -1;
+        margin-top: 30px;
+        text-align: center;
+    }
+    .row.mb-1{
+        position: relative;
+        bottom: 350px;
+        margin-bottom: 10px;
+    }
+    .row.mb-4{
+        position: relative;
+        bottom: 775px;
+        margin-bottom: 10px;
+    }
+    .row.mb-3{
+        position: relative;
+        bottom: 1735PX;
+        margin-bottom: 10px;
+    }
+    .row.mb-2{
+        position: relative;
+        bottom: 715px;
+        margin-bottom: 10px;
+        
+
+ } 
+ .bottona{
+    margin-bottom: 48px;
+ }
+    .pofo-cat {
+       
+        position: relative;
+    }
+    .row{
+        justify-content: space-around !important;
+    }
+     .immage{
+        width: 360px;
+        height: 225px;
+        z-index: -99;
+     }
+     .vedio {
+        position: relative;
+        z-index: 99;
+        width: 276px;
+        height: 413px;
+        bottom: 348px;
+    left: 42px;
+        
+}
+.hassan{
+    position: relative;
+    bottom: 60px;
+}
+.bois{
+    margin-bottom: 50px;
+    position: relative;
+    bottom: 52px;
+    left: 24px;
+}
+.container.yassi{
+    margin-bottom: 0px !important;
+}
+    .btnn{
+        
+        
+          width: 150px;
+        height: 50px;
+        border: none;
+        border-radius: 5px;
+        box-shadow: 2px 3px 4px;
+        margin-top: 100px;
+        margin-left: 150px;
+        color: rgb(18, 58, 10);
+        background-color: aquamarine;}
+        
+
+
+    
