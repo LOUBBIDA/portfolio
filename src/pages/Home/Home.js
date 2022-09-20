@@ -72,6 +72,7 @@ export default function Home()   {
 
             </p>
             </div>
+           <div className="carla"><a href=" https://loubbida.github.io/cv/"> <button className='btnno'>MY CV</button></a></div> 
       <div className="container  ">
         <div className="row mt-5"> 
           <div className="col-md-3"> 
@@ -79,7 +80,7 @@ export default function Home()   {
               <img src="images/port1.png" alt="" className='image'/>
               <div  className="skill-project text-center ">
             <h4  className="mb-3">UI/UX Design</h4>
-            <p>129 projects</p>
+            <p>20 projects</p>
             </div>
             </div>
           </div>
@@ -88,7 +89,7 @@ export default function Home()   {
           <img src="images/port.png"   alt=""  className='image'/>
           <div  className="skill-project text-center ">
             <h4  className="mb-3">Web Development</h4>
-            <p>221 projects</p>
+            <p>10 projects</p>
             </div>
            </div>
           </div>
@@ -97,7 +98,7 @@ export default function Home()   {
           <img src="images/code.png" alt="" className='image' />
           <div  className="skill-project text-center">
             <h4  className="mb-3 ">Web Research</h4>
-            <p>450 project</p>
+            <p>0 project</p>
             </div>
           </div>
           </div>
@@ -106,7 +107,7 @@ export default function Home()   {
              <img src="images/wifi.png" alt="" className='image'/>
              <div  className="skill-project text-center">
             <h4  className="mb-3">Marketing</h4>
-            <p> 331 projects</p>
+            <p> 2 projects</p>
             </div>
               </div>
              </div>
@@ -115,21 +116,23 @@ export default function Home()   {
       <div className="container">
         <div className="row">
           <div className="col-md-3 text-center pt-5">
-          <span className="text text-center text-danger  " ><span className='titre'> </span>  <CountUp start={0} end={100} delay={0}/>  + </span>
-          <p className='fs-5'>Years of Experience</p>
+          <span className="text text-center text-danger  " ><span className='titre'> </span>  <CountUp start={0} end={120} delay={0}/>  + </span>
+          <p className='fs-5'>Months of Experience</p>
           </div>
           <div className="col-md-3 text-center pt-5">
-             <span className="text text-center text-danger  " > <span className='titre'>200  +</span>   </span>
+             <span className="text text-center text-danger  " > <span className='titre'></span>  <CountUp start={16} end={80} delay={0}/>  +</span>   
           <p className='fs-5'>Satisfied Customers</p>
           </div>
           <div className="col-md-3 text-center pt-5">
-          <span className="text text-center text-danger  " ><span className='titre'>769  +</span>     </span>
+          <span className="text text-center text-danger  " ><span className='titre'></span>  <CountUp start={100} end={970} delay={0}/>  +</span>      
           <p className='fs-5'> Design Items</p>
           </div>
           <div className="col-md-3 text-center pt-5text-center pt-5">
-          <span className="text text-center text-danger  " ><span className='titre' >93  +</span>      </span>
+          <span className="text text-center text-danger  " ><span className='titre' ></span>  <CountUp start={500} end={100} delay={0}/>  +</span>       
           <p className='fs-5'>Clients Served</p>
           </div>
+           
+          
         </div>
         </div>           
               

@@ -19,23 +19,33 @@ p {
       margin-top: 50px;
       /* margin-bottom: 60px; */
      }
-     .col-md-6.w-10{
+     .col-md-6.w-75{
       width: 400px;
       height: 300px;
+      margin-bottom: 400px;
      }
      .form-control.fs-4{
       height: 200px;
      }
       
-  text.text.danger{
+  text.text-danger.fs-2{
       font-family: Arial, Helvetica, sans-serif;
       color: rgb(83, 28, 28) !important;
      }
     .card.shadow-sm{
       border-color: red !important;
       background: linear-gradient( to left,rgb(160, 75, 75),rgb(51, 47, 47)) ;
+      margin-bottom: 274px;
      
     
+    }
+    .card.body{
+      width: 400px;
+      height: 300px;
+      margin-bottom: 200px
+    }
+    .haj{
+      margin-bottom: 284px;
     }
     .card.shadow-lm{
       width: 300px !important ;

@@ -1,21 +1,68 @@
-.img{
-     padding-top: 10px;
-     padding-bottom: 10px;
+ .bloge{
+    border: solid 15px rgb(202, 140, 59);
+    width: 347px;
+    height: 445px;
+    border-radius: 10px;
+
+ }
+ .bloge1{
+    border: solid 15px rgb(202, 140, 59);
+    width: 347px;
+    height: 445px;
+    background-image: url(../Blog/bioreso.jpg  );
+    border-radius: 10px;
+   
+
+
+    
+ }
+ .btnnoo{
+         
+   width: 300px;
+   height: 50px;
+   border: none;
+   border-radius: 5px;
+   box-shadow: 2px 3px 4px;
+   margin-bottom: 20px;
+   margin-left: 0px;
+   color: rgb(255, 255, 255);
+   background-color:  rgb(202, 140, 59);
+   cursor: pointer;
+ }
+ .btnnoo:hover{
+   background-color: rgb(255, 255, 255);
+ color:  rgb(202, 140, 59);
+ border: 1px solid  rgb(202, 140, 59); ;
  
+ }
  
-}
-.khad{
-    border-color: black !important;  
-}
-.profile{
-    border: 10px rgb(167, 48, 48);
-}
-.profile.immmage{
+ .texo{
+    color: rgb(240, 239, 236);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.1em;
+    font-weight: 600;
+
+ }
+ .mt-2.w-75{
+    width: 215px;
+    height: 442px;
+    margin-left: 20px;
     position: relative;
-    top: -50px;
-    right: -80px;
-}
-.immmage{
-    width: 100px;
-    height: 200px;
-}
+    top: -416px;
+    left: 14px;
+ }
+ .resseau{
+    font-weight: 700;
+    text-align: center !important;
+    text-decoration: underline;
+
+ }
+ div.col-md-6{
+    margin-bottom: -343px !important;
+    margin-top: 100px;
+   
+ }
+ .w-25{
+  
+    
+ }

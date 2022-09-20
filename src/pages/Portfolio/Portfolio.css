@@ -23,28 +23,10 @@
         margin-top: 30px;
         text-align: center;
     }
-    .row.mb-1{
-        position: relative;
-        bottom: 350px;
-        margin-bottom: 10px;
-    }
-    .row.mb-4{
-        position: relative;
-        bottom: 775px;
-        margin-bottom: 10px;
-    }
-    .row.mb-3{
-        position: relative;
-        bottom: 1735PX;
-        margin-bottom: 10px;
-    }
-    .row.mb-2{
-        position: relative;
-        bottom: 715px;
-        margin-bottom: 10px;
-        
-
- } 
+   
+ .bottona{
+    margin-bottom: 48px;
+ }
  .bottona{
     margin-bottom: 48px;
  }
@@ -52,8 +34,25 @@
        
         position: relative;
     }
-    .row{
-        justify-content: space-around !important;
+    .saphi1{
+        margin-top: -430px;
+
+    }
+    .saphi2{
+        margin-top: -431px;;
+
+    }
+    .saphi3{
+        margin-top: -433px;;
+
+    }
+    .saphi4{
+        margin-top: -435px;;
+
+    }
+    .saphi5{
+        margin-top: -437px;;
+
     }
      .immage{
         width: 360px;
@@ -68,6 +67,9 @@
         bottom: 348px;
     left: 42px;
         
+}
+.div.col-md-4{
+    margin-bottom: 100px;
 }
 .hassan{
     position: relative;
@@ -92,8 +94,78 @@
         box-shadow: 2px 3px 4px;
         margin-top: 100px;
         margin-left: 150px;
-        color: rgb(18, 58, 10);
-        background-color: aquamarine;}
+        color: rgb(255, 255, 255);
+        background-color:  rgb(202, 140, 59);
+        cursor: pointer;
+    }
+    .btnn:hover{
+        background-color: rgb(255, 255, 255);
+    color:  rgb(202, 140, 59);
+    border: 1px solid  rgb(202, 140, 59); ;
+
+    }
+
+        
+        .btnn1{
+        
+        
+            width: 150px;
+          height: 50px;
+          border: none;
+          border-radius: 5px;
+          box-shadow: 2px 3px 4px;
+          margin-top: 100px;
+          margin-left: 150px;
+          color: rgb(18, 58, 10);
+          background-color: rgb(76, 115, 221);}
+          .btnn2{
+        
+        
+            width: 150px;
+          height: 50px;
+          border: none;
+          border-radius: 5px;
+          box-shadow: 2px 3px 4px;
+          margin-top: 100px;
+          margin-left: 150px;
+          color: rgb(18, 58, 10);
+          background-color: rgb(75, 209, 49);} 
+          .btnn3{
+        
+        
+            width: 150px;
+          height: 50px;
+          border: none;
+          border-radius: 5px;
+          box-shadow: 2px 3px 4px;
+          margin-top: 100px;
+          margin-left: 150px;
+          color: rgb(18, 58, 10);
+          background-color: rgb(253, 23, 203);}
+          .btnn4{
+        
+        
+            width: 150px;
+          height: 50px;
+          border: none;
+          border-radius: 5px;
+          box-shadow: 2px 3px 4px;
+          margin-top: 100px;
+          margin-left: 150px;
+          color: rgb(18, 58, 10);
+          background-color: rgb(110, 124, 119);}
+          .btnn5{
+        
+        
+            width: 150px;
+          height: 50px;
+          border: none;
+          border-radius: 5px;
+          box-shadow: 2px 3px 4px;
+          margin-top: 100px;
+          margin-left: 150px;
+          color: rgb(18, 58, 10);
+          background-color: rgb(136, 127, 255);}
         
 
 

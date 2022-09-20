@@ -68,7 +68,7 @@ export default function Contact() {
              <div className="container">
                <div className="row justify-content-betwen"> 
                 <div className=' col-md-6 mt-4'> 
-                   <div className=" ">
+                   <div className="haj ">
                    
                  
                          <a href="https://mail.google.com/mail/u/0/#inbox"> <button className='mt-2'> <div  className='card shadow-lm'  >
@@ -83,8 +83,8 @@ export default function Contact() {
                   <a href="https://myaccount.google.com/profile"> <button className='mt-2'><div className='card shadow-lm' > 
                   <h3 className='text text-center pt-4'><span className=' s-4 mx-5'><BsTwitter/></span> Loubbida</h3>
                   </div>  </button>  </a>              
-                 </div>
-                   <div className=" ">
+                 
+                  
                  
                      <a href="https://myaccount.google.com/profile"> <button className='mt-2'>  <div className=' card shadow-lm'>
                   <h3 className='text text-center pt-4'><span className=' s-4 mx-5'><BsLinkedin/></span>  ayoub loubb</h3>
@@ -93,13 +93,13 @@ export default function Contact() {
                   <a href=" https://www.facebook.com/ayoub.lebbayda/"> <button className='mt-2'> <div className='card shadow-lm' >
                   <h3 className='text text-center pt-4'><span className=' s-4 mx-5'><BsFacebook/></span> AyouB</h3>
                   </div></button>  </a> 
+                    </div>
                    
-                  </div>
               </div>
-          <div className=" col-md-6   w-10">
+          
               <Toaster/>
         
-            <div className="col-md-6 bg-danger">
+            <div className="col-md-6 W-75 bg-danger">
               <div className="card shadow-sm">
                 <div className="card-body">
                   <h5 className="text-center my-3 fs-4">Contactez-nous </h5>
@@ -129,7 +129,8 @@ export default function Contact() {
                     </form>
                 </div>
               </div>
-            </div>
+            
+             
           
               </div>
 

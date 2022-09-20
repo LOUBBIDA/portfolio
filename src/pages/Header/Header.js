@@ -9,7 +9,7 @@ export default function Header() {
     <>
         <div className="row mt-5">
             <div className="col-md-2">
-                <h3 className='text-white  animate__animated animate__bounceInDown'><img src="images/logo3.png" alt="" className='w-100 ' /></h3>
+                <h3 className='text-white  animate__animated animate__bounceInDown'><img src="images/logo3.png" alt="" className='w-100 logo ' /></h3>
             </div>
 
             <div className="col-md-10">

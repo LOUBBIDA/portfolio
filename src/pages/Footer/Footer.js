@@ -30,8 +30,8 @@ export default function Footer() {
    <div className='pe-2'> <BsChatQuoteFill/></div>
   </div>
 </div>
-<div className="col-md-6">
-     <div className="row mt-5 me-5">
+<div className="col-md-6 fs">
+     <div className="row mt-5 me-5 ">
          <div className="col-md-2">
          <span className='text-danger'><h4>Service</h4></span>
              <ul>
